@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(223, 179, 144);
+}
+
+h1 {
+    color: rgb(31, 138, 111);
+    text-align: center;
+}
+.color-text {
+    color: cadetblue;
+    text-align: center;
+}
+
+.city {
+    background-color: rgb(200, 200, 200);
+    color: rgb(27, 14, 14);
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .city2 {
+    background-color: rgb(118, 125, 230);
+    color: rgb(29, 22, 22);
+    padding: 10px;
+  } 
+
+  div.polaroid {
+    width: 50%;
+    background-color: white;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 20px 20px;
+  }
+.texto{
+    text-align: right;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    
+}
+
+.texto2{
+    text-align: center;
+}
+
+p {
+    font-family: 'verdana';
+    font-size: 20px;
+}
